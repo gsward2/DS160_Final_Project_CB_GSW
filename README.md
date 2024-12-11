@@ -1,0 +1,2 @@
+This repository is used for our final project where we used a Data Scientist Salary dataset from Kaggle. We used this dataset because of the question we had, can we predict a salary of a Data Scientist based on variables that are in connection and are closely related to what affects salaries. Throughout this document our data will be shown with graphs, plots, and a correlation map of our variables. The variables, along with the use of linear and logistic regression will allow for the most accurate results to allow us to produce a conclusion of our findings. 
+
